@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/obayomi96/nasa-sample.svg?branch=master)](https://travis-ci.org/obayomi96/nasa-sample)
 [![Coverage Status](https://coveralls.io/repos/github/obayomi96/nasa-sample/badge.svg)](https://coveralls.io/github/obayomi96/nasa-sample)
 
-## Getting started
+<!-- ## Getting started
 
 ### Installation
 
@@ -21,8 +21,7 @@
 - The following APIs could be tested with Postman or a similar tool.
 
 - GET `/wallets` - Get wallet balance
-- PATCH `/wallets` - Load wallet (with 3000 BTC)
-
+- PATCH `/wallets` - Load wallet
 - POST `/trips` - take trips trying the following locations below
 
 ```
@@ -45,4 +44,4 @@
   "destination": "mars", 
   "spaceCraft": "falcon1" 
 }
-```
+``` -->
