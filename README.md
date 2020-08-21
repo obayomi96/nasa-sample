@@ -1,5 +1,7 @@
 # space-test
 
+[![Coverage Status](https://coveralls.io/repos/github/obayomi96/nasa-sample/badge.svg)](https://coveralls.io/github/obayomi96/nasa-sample)
+
 ## Getting started
 
 ### Installation
